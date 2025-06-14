@@ -5,9 +5,6 @@ In this page you'll be able to find a mish mesh of multiple things:
 - QualityOfLife Scripts
 - Others (?)
 ---
-## Who I am:
-
-## Why I'm here:
-
 ## What I'm doing:
----
+At the moment I'm tring to survive Uni
+
