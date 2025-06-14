@@ -1,4 +1,10 @@
 ## Hi there 👋
+Hi there, I'm Nova.
+In this page you'll be able to find a mish mesh of multiple things:
+- University Projecs
+- Minecraft Mods
+- QOL Scripts
+- Others
 
 <!--
 **tooMuchRedString/tooMuchRedString** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
